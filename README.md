@@ -3,4 +3,4 @@ Mini-Project-1,<br>
 Data Structures<br>
 Course Code: CS201<br>
 <br>
-The code for "C program for Large Fibonacci number"<br>
+This repo contains all assignments of DSA class <br>
